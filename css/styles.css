@@ -155,6 +155,10 @@ p {
   padding: 20px 10px;
 }
 
+.media-hover:hover{
+  color: #ff4c68;
+}
+
 @media (max-width:992px) {
   #title {
     text-align: center;
